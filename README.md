@@ -56,7 +56,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -85,11 +84,8 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Python 3.5 or higher is required
+
 
 ### Installation
 
@@ -97,20 +93,11 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/Keven1894/dLOCasDataScripts.git
    ```
-2. Install NPM packages
+2. Install required packages
+   Please check the requirement.txt and run 
    ```sh
-   npm install
+   $ pip install -r requirements.txt
    ```
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 
 
 <!-- ROADMAP -->
@@ -136,7 +123,7 @@ Contributions are what make the open source community such an amazing place to l
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the APACHE-2.0 License. See `LICENSE` for more information.
 
 
 
@@ -152,9 +139,9 @@ Project Link: [https://github.com/Keven1894/dLOCasDataScripts](https://github.co
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [spaCy](https://spacy.io/)
+* [Prodigy](https://prodi.gy/)
+* [dPanther](http://dpanther.fiu.edu)
 
 
 
