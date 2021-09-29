@@ -70,12 +70,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This python repository is designed to explore the possible integration for NLP functions to dPather digital digital collection repository. 
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+Two libraries are tested separtely, the spaCy and the Prodigy. Inside the spaCy folder, the notebook demostrate some basic NLP function by using a sample dPanther record as input.
 
+In the Prodigy folder, the notebook demostrate the mehtod to convert the dPanther record into a Prodigy input format: jsonl
 
 
 
@@ -144,7 +143,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Boyuan (Keven) Guan - keven1894@gmail.com / bguan@giu.edu
 
 Project Link: [https://github.com/Keven1894/dLOCasDataScripts](https://github.com/Keven1894/dLOCasDataScripts)
 
@@ -163,15 +162,15 @@ Project Link: [https://github.com/Keven1894/dLOCasDataScripts](https://github.co
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Keven1894/dLOCasDataScripts.svg?style=for-the-badge
 [contributors-url]: https://github.com/Keven1894/dLOCasDataScripts/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Keven1894/dLOCasDataScripts.svg?style=for-the-badge
 [forks-url]: https://github.com/Keven1894/dLOCasDataScripts/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Keven1894/dLOCasDataScripts.svg?style=for-the-badge
 [stars-url]: https://github.com/Keven1894/dLOCasDataScripts/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Keven1894/dLOCasDataScripts.svg?style=for-the-badge
 [issues-url]: https://github.com/Keven1894/dLOCasDataScripts/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/Keven1894/dLOCasDataScripts.svg?style=for-the-badge
 [license-url]: https://github.com/Keven1894/dLOCasDataScripts/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://www.linkedin.com/in/boyuan-keven-guan/
